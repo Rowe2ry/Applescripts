@@ -36,6 +36,13 @@ Simply run the script in the application "Script Editor", paste an input string 
 ### Git Pull App
 
 if you have your course materials on your desktop, you just run the script. If you are not part of the GA Tech Bootcamp, you may have to edit line # 10 between the double quotes to the name of your class directory
+
+### New Project App
+
+If you are creating a new web page, you'll need to create a folder to house the site locally as you code it. You'll either be working in a repository clone or a locally created folder. You'll need an index.html page, a stylesheet, a script sheet, and the various folder structure to support the project. It can be tiresome to create all of this structure every time you start a new project so this Applescript lets you do it just by running a script. You can use this to create your starting folder locally, or to get started in a BLANK gitHub repo clone with only a README file. NOTE: you'll need to modify the code on line 9 of the code where the variable "truncatedProjectLocation" is defined. The "29" on that line is picking a place in the file path where terminal starts to have root access. It is omitting the following 28 characters on my computer
+/Macintosh HD/users/Rowe2ry/ 
+
+If your username is longer or shorty than "Rowe2ry" (7 characters) you'll need to modify that number "29" to +/- the difference in character length of your username to mine (Rowe2ry)
 ## Credits
 
 List your collaborators, if any, with links to their GitHub profiles.
