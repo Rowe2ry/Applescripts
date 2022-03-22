@@ -20,6 +20,12 @@ This also runs out of script editor, but will require that you open your Mac's p
 
 ## Usage
 
+For both scripts, and Applescript in general, you can open the files in script editor and then go to 
+
+```
+file >> export as
+```
+And then export as a read only application to launch the script with a double click on an icon.
 ### Hashtag App
 
 Simply run the script in the application "Script Editor", paste an input string into the text field of the dialog box that pops up and get the reults in the "results" field of the script editor window. 
