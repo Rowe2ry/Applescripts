@@ -45,11 +45,10 @@ If you are creating a new web page, you'll need to create a folder to house the 
 If your username is longer or shorty than "Rowe2ry" (7 characters) you'll need to modify that number "29" to +/- the difference in character length of your username to mine (Rowe2ry)
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+I'd like to thank Advanced Color Imaging, a large format print shop in Norcross, GA for the tutelage in Applescript. It was in the midsts of a
+9 year career with the shop that I learned everything I know about writing in Applescript as I developed the scripts to automate tasks on that job. The owners, Michael and Teresa Bash are, a huge part of my professional journey into writing code.
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+[Advanced Color Imaging](https://acibigcolor.com)
 
 ## License
 
